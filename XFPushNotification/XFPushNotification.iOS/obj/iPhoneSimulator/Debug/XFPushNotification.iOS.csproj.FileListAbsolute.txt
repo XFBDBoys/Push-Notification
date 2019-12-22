@@ -1,0 +1,7 @@
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification.iOS\obj\iPhoneSimulator\Debug\optimized\
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification.iOS\obj\iPhoneSimulator\Debug\XFPushNotification.iOS.csprojAssemblyReference.cache

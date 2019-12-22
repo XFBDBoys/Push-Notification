@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XFPushNotification.PopupView">
+  <ContentView.Content>
+      <StackLayout>
+          <Label 
+              x:Name="lblTitle" 
+              FontSize="Title" 
+              FontAttributes="Bold" 
+              HorizontalTextAlignment="Center" 
+              HorizontalOptions="Center"/>
+            <Label 
+              x:Name="lblMessage" 
+              FontSize="Subtitle" 
+              FontAttributes="Italic" 
+              HorizontalTextAlignment="Center" 
+              HorizontalOptions="Center"/>
+            <Button
+                x:Name="btnDismiss"
+                Text="Close"
+                BackgroundColor="Red"
+                TextColor="White"
+                FontSize="Title"
+                FontAttributes="Bold"
+                Clicked="btnDismiss_Clicked"/>
+            <StackLayout>
+                
+            </StackLayout>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

@@ -1,0 +1,17 @@
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\bin\Debug\netstandard2.0\XFPushNotification.deps.json
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\bin\Debug\netstandard2.0\XFPushNotification.dll
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\bin\Debug\netstandard2.0\ref\XFPushNotification.dll
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\bin\Debug\netstandard2.0\XFPushNotification.pdb
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\DashboardPage.xaml.g.cs
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\NotificationListPage.xaml.g.cs
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\XFPushNotification.AssemblyInfoInputs.cache
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\XFPushNotification.AssemblyInfo.cs
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\XFPushNotification.dll
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\ref\XFPushNotification.dll
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\XFPushNotification.pdb
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\XFPushNotification.csprojAssemblyReference.cache
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\NotificationPopupPage.xaml.g.cs
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\XamlC.stamp
+E:\XF_WorkSpace\XFPushNotification\XFPushNotification\XFPushNotification\obj\Debug\netstandard2.0\PopupView.xaml.g.cs

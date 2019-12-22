@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234232834408",
+    "firebase_url": "https://xfpushnotification-fdcd3.firebaseio.com",
+    "project_id": "xfpushnotification-fdcd3",
+    "storage_bucket": "xfpushnotification-fdcd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234232834408:android:a2c821df01f6dcfaa04edd",
+        "android_client_info": {
+          "package_name": "com.xfbdboys.xfpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234232834408-b0ve3ks5j493pggkf5unj9kras3ktudm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfOOVwek51ak-U8q7y6nRT6OSOO8Cj-io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234232834408-b0ve3ks5j493pggkf5unj9kras3ktudm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
